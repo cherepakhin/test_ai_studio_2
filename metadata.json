@@ -1,0 +1,5 @@
+{
+  "name": "ElevateHR - Java/GWT Vacancy System",
+  "description": "A full-stack vacancy registration service architecture using Spring Boot for REST and GWT for the frontend.",
+  "requestFramePermissions": []
+}
